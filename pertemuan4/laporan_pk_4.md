@@ -46,4 +46,4 @@ Medis, E-Voting, Hak Cipta, dll), kerjakan modifikasi berikut:
 4. Muhammad Toro Haikal
 
 
-![alt text](image.png)
+<img width="1270" height="637" alt="image" src="https://github.com/user-attachments/assets/64c8d1de-417b-4415-8a3e-a0b8cb241309" />
