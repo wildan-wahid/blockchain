@@ -7,8 +7,7 @@ pembuatan Class.
 Backend (Core) dan antarmuka Frontend (UI).
 3. Mahasiswa dapat membangun struktur Linked List terenkripsi menggunakan Hash
 Pointers.
-4. Mahasiswa mampu mensimulasikan sistem "Traceability Rantai Pasok Kopi" sederhana di
-lingkungan lokal.
+4. Mahasiswa mampu mensimulasikan sistem "Traceability Rantai Pasok Kopi" sederhana di lingkungan lokal.
 
 ### B. Konsep Arsitektur Modular
 Mulai pertemuan ini, penulisan kode tidak lagi digabung dalam satu file. Aplikasi akan dibagi
@@ -39,3 +38,5 @@ Berdasarkan domain industri yang telah disepakati kelompok pada Pertemuan 1 (mis
 Medis, E-Voting, Hak Cipta, dll), kerjakan modifikasi berikut:
 1. Laporan Praktikum: Push di Github.
 2. Diskusi Kelompok tentukan Thema Projek.
+
+![alt text](image.png)
